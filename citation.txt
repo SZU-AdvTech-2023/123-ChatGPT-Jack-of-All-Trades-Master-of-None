@@ -1,0 +1,9 @@
+@article{REPO123,
+    doi = "https://doi.org/10.1016/j.inffus.2023.101861",
+    issn = "1566-2535",
+    journal = "Information Fusion",
+    pages = "101861",
+    title = "{ChatGPT: Jack of all trades, master of none}",
+    volume = "99",
+    year = "2023"
+}
